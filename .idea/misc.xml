@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___01_intro_ek2_shape.xml" value="0.2046875" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___02_employee_ek2_shape.xml" value="0.15648148148148147" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___02a_employeedetails_ek2_shape.xml" value="0.15648148148148147" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___02b_employeemodify_ek2_shape.xml" value="0.15648148148148147" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___02c_employeeavailability_ek2_shape.xml" value="0.15648148148148147" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___03_scheduling_ek2_shape.xml" value="0.15648148148148147" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/drawable-nodpi/_bg___04_settings_ek2_shape.xml" value="0.15648148148148147" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/layout/employee.xml" value="0.18" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/layout/employeeavailability.xml" value="0.25" />
+        <entry key="..\:/Projects/ShiftScheduler/app/src/main/res/layout/intro.xml" value="0.25" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_cal_object.xml" value="0.328125" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_editform.xml" value="0.4264202600958248" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_form.xml" value="0.44787922358015814" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_info.xml" value="0.33" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_list.xml" value="0.5541666666666667" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_object.xml" value="0.2692502532928065" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_timeoff.xml" value="0.5" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/employee_timeoff_object.xml" value="0.5541666666666667" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/error_cal_object.xml" value="0.3328125" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_available_object.xml" value="0.75" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_calendar.xml" value="0.5" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_scheduled_object.xml" value="0.75" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_weekday.xml" value="0.5" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_weekday_object.xml" value="0.75" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_weekday_schedobject.xml" value="0.5541666666666667" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_weekend.xml" value="0.5" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/shift_weekend_object.xml" value="0.390625" />
+        <entry key="..\:/Projects/f21borg/ShiftScheduler/app/src/main/res/layout/test.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/drawable/ic_calendar.xml" value="0.2921875" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/drawable/ic_employee.xml" value="0.2921875" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/drawable/ic_evening.xml" value="0.2921875" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/drawable/navbar_color.xml" value="0.3828125" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/employee_cal_object.xml" value="0.67" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/employee_editform.xml" value="0.33" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/employee_form.xml" value="0.33" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/employee_info.xml" value="0.3724007561436673" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/employee_list.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/error_cal_object.xml" value="0.8396663577386468" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/layout/shift_calendar.xml" value="0.75" />
+        <entry key="..\:/Users/orion/Documents/Cmpt 395/f21borg/ShiftScheduler/app/src/main/res/menu/bottom_menu.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/zhouz/f21borg/ShiftScheduler/app/src/main/res/layout/employee.xml" value="0.34193840579710144" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_employee.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/drawable/ic_morning.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/drawable/settings_icon.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11094224924012158" />
+        <entry key="app/src/main/res/layout/employee.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/employee_editform.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/employee_form.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/employee_info.xml" value="0.3026041666666667" />
+        <entry key="app/src/main/res/layout/employee_list.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/employee_object.xml" value="0.20697463768115942" />
+        <entry key="app/src/main/res/layout/schedule_export.xml" value="0.2776268115942029" />
+        <entry key="app/src/main/res/layout/shift_calendar.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/shift_day.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
